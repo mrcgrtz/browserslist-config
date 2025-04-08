@@ -1,0 +1,16 @@
+{
+  "name": "@mrcgrtz/browserslist-config",
+  "version": "1.0.0",
+  "description": "The browserslist configuration used by all my personal projects.",
+  "license": "MIT",
+  "repository": "github:mrcgrtz/browserslist-config",
+  "author": {
+    "name": "Marc Görtz",
+    "email": "git@marcgoertz.de",
+    "url": "https://marcgoertz.de/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  }
+}
