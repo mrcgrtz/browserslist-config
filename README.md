@@ -1,4 +1,4 @@
-# browserslist-config
+# browserslist-config-mrcgrtz
 
 The browserslist configuration used by all my personal projects.
 
@@ -7,7 +7,7 @@ The browserslist configuration used by all my personal projects.
 Install the package using `npm`.
 
 ```sh
-npm install --save-dev @mrcgrtz/browserslist-config
+npm install --save-dev browserslist-config-mrcgrtz
 ```
 
 Then add the `browserslist` key to your `package.json`:
@@ -21,7 +21,7 @@ index 2ecef3d..260838f 100644
    "keywords": [
      "prettier"
    ],
-+  "browserslist": "extends @github/browserslist-config",
++  "browserslist": "extends browserslist-config-mrcgrtz",
    "license": "MIT",
    "main": "index.js"
 ```

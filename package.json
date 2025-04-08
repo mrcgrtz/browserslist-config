@@ -1,5 +1,5 @@
 {
-  "name": "@mrcgrtz/browserslist-config",
+  "name": "browserslist-config-mrcgrtz",
   "version": "1.0.0",
   "description": "The browserslist configuration used by all my personal projects.",
   "license": "MIT",
@@ -10,6 +10,9 @@
     "url": "https://marcgoertz.de/"
   },
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\""
   }
