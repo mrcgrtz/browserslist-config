@@ -1,8 +1,12 @@
 {
   "name": "browserslist-config-mrcgrtz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The browserslist configuration used by all my personal projects.",
-  "keywords": ["browserslist", "browserslist-config", "browserslist-shareable-config"],
+  "keywords": [
+    "browserslist",
+    "browserslist-config",
+    "browserslist-shareable-config"
+  ],
   "license": "MIT",
   "repository": "github:mrcgrtz/browserslist-config",
   "author": {
